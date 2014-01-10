@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/pullToRefreshTime"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Codename One Runtime" scope="PROVIDED"/>
+	<lib name="Codename One API" scope="PROVIDED"/>
+	<levels>
+		<level name="Codename One Runtime" value="project"/>
+		<level name="Codename One API" value="project"/>
+	</levels>
+</component>

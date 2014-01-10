@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Codename One Runtime">
+    <archive path="C:/Users/MKocinski.TRICEPT-AG/IdeaProjects/pullToRefreshTime/lib/CLDC11.jar" />
+  </library>
+  <library name="library.cn1lib.name">
+    <archive path="C:/Users/MKocinski.TRICEPT-AG/IdeaProjects/pullToRefreshTime/lib/impl/cls" />
+  </library>
+  <library name="Codename One API">
+    <archive path="C:/Users/MKocinski.TRICEPT-AG/IdeaProjects/pullToRefreshTime/lib/CodenameOne.jar" />
+  </library>
+</eclipse-userlibraries>
+
